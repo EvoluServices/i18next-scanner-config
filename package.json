@@ -1,0 +1,10 @@
+{
+  "name": "@evoluservices/i18next-scanner-config",
+  "description": "i18next-scanner config shared amongst Evoluservices' projects",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "i18next-scanner-typescript": "^1.0.3"
+  }
+}
