@@ -1,4 +1,4 @@
-# `@evoluservices/prettier-config`
+# `@evoluservices/i18next-scanner-config`
 
 > Evoluservices' [i18next-scanner](https://www.i18next.com/) config.
 
